@@ -1,15 +1,17 @@
-# Tech Stack (Initial)
+# Технологический стек (MVP)
 
-This document captures the agreed initial stack for the MVP.
+Документ фиксирует выбранный стек для первого этапа.
 
-## Clients
-- **Windows**: C# (.NET), native desktop UI.
-- **Android**: Kotlin, native mobile UI.
+## Клиенты
+- **Windows**: C# (.NET), нативный десктопный UI.
+- **Android**: Kotlin, нативный мобильный UI.
 
 ## Core
-- Shared, UI-agnostic core library that handles connection lifecycle,
-  configuration, and diagnostics.
+- Общая библиотека без зависимости от UI, отвечает за:
+  - жизненный цикл подключения;
+  - конфигурацию;
+  - диагностику и логирование.
 
-## Notes
-- Prioritize reliability and clear diagnostics over feature breadth.
-- Keep the core library independent of UI frameworks to allow future GUI changes.
+## Принципы
+- Приоритет устойчивости и понятной диагностики.
+- Core остаётся независимым от UI‑фреймворков, чтобы позже менять интерфейс без переписывания логики.
