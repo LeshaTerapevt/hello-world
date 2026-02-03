@@ -43,4 +43,5 @@ index 5ec0cce714fcd5c473edba40f015468840805ba6..ea90fb94fad11179caaccf8e7e928779
 +- `docs/architecture.md`
 +- `docs/roadmap.md`
 +- `docs/tech-stack.md`
++- `docs/core-lifecycle.md`
 +- `docs/next-steps.md`
