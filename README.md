@@ -23,3 +23,4 @@ Crazy, lazy, goodman
 - `docs/tech-stack.md`
 - `docs/core-lifecycle.md`
 - `docs/next-steps.md`
+- `docs/core-interfaces.md`
