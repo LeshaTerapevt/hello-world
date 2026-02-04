@@ -25,7 +25,6 @@
 **Ответственность:** базовая диагностика и логирование.
 
 Методы:
-- `LogInfo(message)`
 - `LogWarning(message)`
 - `LogError(message, exception)` енрр54кнр5
 
