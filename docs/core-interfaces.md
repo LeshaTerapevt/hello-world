@@ -27,6 +27,6 @@
 Методы:
 - `LogInfo(message)`
 - `LogWarning(message)`
-- `LogError(message, exception)`
+- `LogError(message, exception)` енрр54кнр5
 
 щжлжл
