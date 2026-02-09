@@ -13,14 +13,8 @@
 +│   ├── AndroidClient/  # Android UI shell
 +│   ├── Core/           # Core connection logic (no UI dependencies)
 +│   ├── Shared/         # Shared models/utilities
-+│   └── WindowsClient/  # Windows demo shell
++│   └── WindowsClient/  # Windows UI shell
 +└── tests/           # Test projects
-+```
-+
-+## Quick start (demo)
-+
-+```bash
-+dotnet run --project src/WindowsClient/WindowsClient.csproj
 +```
 +
 +## Planning docs
