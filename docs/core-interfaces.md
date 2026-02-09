@@ -29,3 +29,7 @@
 - `LogWarning(message)`
 - `LogError(message, exception)`
 
+## Реализация (MVP)
+- `src/Core/IConnectionManager.cs`
+- `src/Core/IConfigurationStore.cs`
+- `src/Core/IDiagnostics.cs`
